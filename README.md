@@ -1,2 +1,2 @@
 # pong-game
-Pong game in godot
+Pong game when learning godot/gdscript
